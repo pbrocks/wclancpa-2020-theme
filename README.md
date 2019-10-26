@@ -1,11 +1,12 @@
 # WordCamp Lancaster PA 2020 Theme
 
-Theme for WordCamp Lancaster PA 2020
+## Child Theme for WordCamp Lancaster PA 2020
 
-https://2020.lancasterpa.wordcamp.org
+* https://github.com/pbrocks/wclancpa-2020-theme
+* https://2020.lancasterpa.wordcamp.org
 
 
-from Dustin's original repo:
+### from Dustin's original repo:
 
 https://github.com/dustinleer/wordcamplancaster2020
 
